@@ -1,2 +1,2 @@
 # pyqrcode
-Create QR Code using Python
+Create and Read QR Code using Python
